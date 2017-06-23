@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Matth\\Downloads\\Camera2Raw\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Matth\\.android\\build-cache\\f146a5fac1633d08d08b225e874c54295f9f9853\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matth\\Downloads\\Camera2Raw\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Matth\\.android\\build-cache\\f146a5fac1633d08d08b225e874c54295f9f9853\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matth\\Downloads\\Camera2Raw\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Matth\\.android\\build-cache\\f146a5fac1633d08d08b225e874c54295f9f9853\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matth\\Downloads\\Camera2Raw\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Matth\\.android\\build-cache\\f146a5fac1633d08d08b225e874c54295f9f9853\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

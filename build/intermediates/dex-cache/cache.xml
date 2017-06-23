@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\.android\build-cache\1d18e2130f2f5b3a0968a1bbd9a1fd843a94b7fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\classes_a5409825e6750ca20b4df5956cfd8819fb712494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_939d1895f687bf682cba4839ea03bbafe0ecbc9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\.android\build-cache\a3295dd05577fe2cdf5497638280f04bb6b35705\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\classes_2b91583ea8f41fa7d82033330ca7a9c94f855324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\.android\build-cache\cb155f3169aab08f914ff72212e32368ce6e712b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\classes_c8f02d31e8d6aafaa4d4c87936acf0c216ead663.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\.android\build-cache\72ada6a923fe7e0c445ab26a3af17b106bbd5580\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\classes_f63e51963117177a8a8ec884704f73fbe51aa033.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\.android\build-cache\a5f48fab282e05dafe9c9ef3f80a732616c173da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\classes_b3e55e659e88de5197a9d529fb936f692bc1f336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\.android\build-cache\dbccd3990abcace9c8f1cc19704ffff3c3bc7693\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\classes_393ebe760f687a2878584609926735d8ce4fa94c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\.android\build-cache\6122587d279a04818d369d4955ea033c19ab88d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\classes_89bfb4b819761a7b876cb58d37bdd4ea8a4ee048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\.android\build-cache\25cc6f20d6fdefa66bb735854dd4abb0b79a600c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\classes_934668ffd4c8e3f42f06d56b1788fd9a587605e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\.android\build-cache\f146a5fac1633d08d08b225e874c54295f9f9853\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\classes_df3af1675cdcb8fdb99c717318a0dd2f851e3606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\.android\build-cache\4c777595ed70283f4f595b65d06c0bea8cb36149\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\classes_f37bb64dfd114537619d65793980291815514a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\.android\build-cache\16c1867cfe33d7db7cad358c73e9f835b61432fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\classes_e22e1aa7301284d3a589f584ba7c90bae4ba1ec3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\.android\build-cache\dfe08674bca8c1922183046eab44b92613461039\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\classes_7dd276ccb4562e9b0b88c5653282bfca7cb2f7cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\.android\build-cache\7593af30650736d3e9ed33d962a6d95f08128bf4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\classes_607e48b7aa12111fa338edc20eb8394af8f9bc98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Matth\.android\build-cache\2d4029fc449aa14a22b8820cb086691d5055219d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Matth\Downloads\Camera2Raw\Application\build\intermediates\pre-dexed\debug\classes_a231f561aef9d33f742e94924c8514c3880d5ead.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:18:1-46:12
+	package
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:19:5-45
+	android:versionName
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:24:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:26:22-77
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:29:5-60
+	android:name
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:29:19-57
+uses-feature#android.hardware.camera.raw
+ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:30:5-64
+	android:name
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:30:19-61
+application
+ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:32:5-44:19
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Matth\.android\build-cache\16c1867cfe33d7db7cad358c73e9f835b61432fe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Matth\.android\build-cache\cb155f3169aab08f914ff72212e32368ce6e712b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Matth\.android\build-cache\f146a5fac1633d08d08b225e874c54295f9f9853\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Matth\.android\build-cache\a3295dd05577fe2cdf5497638280f04bb6b35705\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Matth\.android\build-cache\25cc6f20d6fdefa66bb735854dd4abb0b79a600c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\Matth\.android\build-cache\72ada6a923fe7e0c445ab26a3af17b106bbd5580\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Matth\.android\build-cache\2d4029fc449aa14a22b8820cb086691d5055219d\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Matth\.android\build-cache\1d18e2130f2f5b3a0968a1bbd9a1fd843a94b7fc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Matth\.android\build-cache\dbccd3990abcace9c8f1cc19704ffff3c3bc7693\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Matth\.android\build-cache\4c777595ed70283f4f595b65d06c0bea8cb36149\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Matth\.android\build-cache\dfe08674bca8c1922183046eab44b92613461039\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Matth\.android\build-cache\6122587d279a04818d369d4955ea033c19ab88d7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Matth\.android\build-cache\7593af30650736d3e9ed33d962a6d95f08128bf4\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:33:9-41
+	android:allowBackup
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:32:18-44
+	android:icon
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:34:9-45
+	android:theme
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:35:9-45
+activity#com.example.android.camera2raw.CameraActivity
+ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:37:9-43:20
+	android:label
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:38:19-51
+	android:name
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:37:19-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml:41:27-74
+uses-sdk
+INJECTED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Matth\.android\build-cache\16c1867cfe33d7db7cad358c73e9f835b61432fe\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Matth\.android\build-cache\cb155f3169aab08f914ff72212e32368ce6e712b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Matth\.android\build-cache\f146a5fac1633d08d08b225e874c54295f9f9853\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Matth\.android\build-cache\a3295dd05577fe2cdf5497638280f04bb6b35705\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Matth\.android\build-cache\25cc6f20d6fdefa66bb735854dd4abb0b79a600c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\Matth\.android\build-cache\72ada6a923fe7e0c445ab26a3af17b106bbd5580\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Matth\.android\build-cache\a5f48fab282e05dafe9c9ef3f80a732616c173da\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Matth\.android\build-cache\2d4029fc449aa14a22b8820cb086691d5055219d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Matth\.android\build-cache\1d18e2130f2f5b3a0968a1bbd9a1fd843a94b7fc\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Matth\.android\build-cache\dbccd3990abcace9c8f1cc19704ffff3c3bc7693\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Matth\.android\build-cache\4c777595ed70283f4f595b65d06c0bea8cb36149\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Matth\.android\build-cache\dfe08674bca8c1922183046eab44b92613461039\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Matth\.android\build-cache\6122587d279a04818d369d4955ea033c19ab88d7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Matth\.android\build-cache\7593af30650736d3e9ed33d962a6d95f08128bf4\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Matth\.android\build-cache\16c1867cfe33d7db7cad358c73e9f835b61432fe\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matth\Downloads\Camera2Raw\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Matth\.android\build-cache\16c1867cfe33d7db7cad358c73e9f835b61432fe\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Matth\.android\build-cache\cb155f3169aab08f914ff72212e32368ce6e712b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Matth\.android\build-cache\f146a5fac1633d08d08b225e874c54295f9f9853\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Matth\.android\build-cache\a3295dd05577fe2cdf5497638280f04bb6b35705\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Matth\.android\build-cache\25cc6f20d6fdefa66bb735854dd4abb0b79a600c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Matth\.android\build-cache\1d18e2130f2f5b3a0968a1bbd9a1fd843a94b7fc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Matth\.android\build-cache\dbccd3990abcace9c8f1cc19704ffff3c3bc7693\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Matth\.android\build-cache\4c777595ed70283f4f595b65d06c0bea8cb36149\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Matth\.android\build-cache\dfe08674bca8c1922183046eab44b92613461039\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Matth\.android\build-cache\6122587d279a04818d369d4955ea033c19ab88d7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Matth\.android\build-cache\7593af30650736d3e9ed33d962a6d95f08128bf4\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Matth\.android\build-cache\16c1867cfe33d7db7cad358c73e9f835b61432fe\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Matth\.android\build-cache\16c1867cfe33d7db7cad358c73e9f835b61432fe\output\AndroidManifest.xml:26:9-47
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Matth\.android\build-cache\2d4029fc449aa14a22b8820cb086691d5055219d\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Matth\.android\build-cache\2d4029fc449aa14a22b8820cb086691d5055219d\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Matth\.android\build-cache\2d4029fc449aa14a22b8820cb086691d5055219d\output\AndroidManifest.xml:22:13-58
